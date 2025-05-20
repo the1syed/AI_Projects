@@ -21,14 +21,6 @@ This repository contains a collection of AI and NLP-based projects implemented u
   - Sentiment scoring using TextBlob
   - Pie chart visualization of sentiment distribution
 
-### 3. 📰 News Headline Bias Detection *(Replace with actual project name if needed)*
-- **Objective**: Detect ideological or cultural bias in news headlines using NLP techniques.
-- **Tech Stack**: Python, BERT, NLTK, Transformers
-- **Highlights**:
-  - Tokenization and sentence embedding
-  - Bias detection using transformer models
-  - Comparative analysis of bias detection tools
-
 ---
 
 ## 🚀 Getting Started
